@@ -9,10 +9,10 @@ Hi, my name is Tiago Ribeiro Chagas and I'm a student at Federal University of S
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trchagas&count_private=true&show_icons=true&theme=dracula&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trchagas&count_private=true&show_icons=true&theme=dracula&hide=issues&?count_private=true" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchagas&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchagas&layout=compact&theme=dracula&?count_private=true" />
 </a>
 
