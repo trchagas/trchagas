@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there :eyes:
 
-<!--
-**trchagas/trchagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Tiago Ribeiro Chagas and I'm a student at Federal University of Santa Maria. 
 
-Here are some ideas to get you started:
+- 🎓 I’m currently working on PET-CC
+- 📰 I’m currently learning about Web development
+- 📫 How to reach me: trchagas@inf.ufsm.br
+- 🎵 Fun fact: I also like to play the guitar and draw
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trchagas&count_private=true&show_icons=true&theme=dracula&hide=issues" />
+</a>
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchagas&layout=compact&theme=dracula" />
+</a>
+
