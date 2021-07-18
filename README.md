@@ -13,6 +13,6 @@ Hi, my name is Tiago Ribeiro Chagas and I'm a student at Federal University of S
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchagas&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchagas&layout=compact&theme=dracula&count_private=true" />
 </a>
 
