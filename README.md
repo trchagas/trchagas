@@ -4,7 +4,6 @@ Hi, my name is Tiago Ribeiro Chagas and I'm a student at Federal University of S
 
 - 🎓 I’m currently working on PET-CC
 - 📰 I’m currently learning about Web and Mobile development
-- 📫 How to reach me: trchagas@inf.ufsm.br
 
 
 <a href="#">
